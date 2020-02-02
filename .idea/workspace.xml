@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db6d1731-7cb1-45fd-83f7-fcaeff85e383" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XG5n8waeFdqWvGYN1WwSuuWjNy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db6d1731-7cb1-45fd-83f7-fcaeff85e383" name="Default Changelist" comment="" />
+      <created>1580659755055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580659755055</updated>
+      <workItem from="1580659757311" duration="28000" />
+      <workItem from="1580659846753" duration="33000" />
+      <workItem from="1580659889598" duration="4205000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="648" y="346" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580659874919">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="648" y="346" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1580659874919" />
+    <state x="938" y="250" key="SettingsEditor" timestamp="1580670008670">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="938" y="250" key="SettingsEditor/0.23.1920.1177@0.23.1920.1177" timestamp="1580670008670" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1580660295324">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1920.1177@0.23.1920.1177" timestamp="1580660295324" />
+    <state x="1105" y="288" width="670" height="676" key="search.everywhere.popup" timestamp="1580669979875">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="1105" y="288" width="670" height="676" key="search.everywhere.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1580669979875" />
+  </component>
+</project>
